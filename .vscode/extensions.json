@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "pkief.material-icon-theme",
+        "octref.vetur",
+        "jcbuisson.vue",
+        "hollowtree.vue-snippets"
+    ]
+}
